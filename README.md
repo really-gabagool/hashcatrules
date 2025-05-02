@@ -1,1 +1,1 @@
-A collection of rules I've written for Hashcat. Enjoy responsibly. 
+A collection of rules written for Hashcat. Enjoy responsibly. 
